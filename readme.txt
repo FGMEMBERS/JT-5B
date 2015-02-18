@@ -1,4 +1,4 @@
-﻿
+
 JT-5B autgyro
 For FlightGear   
 Release 0.90 (Beta) 
